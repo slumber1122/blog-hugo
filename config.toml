@@ -1,0 +1,9 @@
+baseurl = "http://slumber1122.github.io"
+title = "長風無時"
+languageCode = "en-us"
+theme = "hugo-zen"
+author = "wade van"
+copyright = "wade van All rights reserved."
+
+[params]
+  logo      = "/images/me.jpg"
