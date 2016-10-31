@@ -16,3 +16,8 @@ git commit -m "$msg"
 git push origin master
 # Come Back
 cd ..
+
+git add -A
+msg="backup blog site `date`"
+git commit -m "$msg"
+git push origin master
