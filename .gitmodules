@@ -1,3 +1,6 @@
 [submodule "themes/hugo-zen"]
 	path = themes/hugo-zen
 	url = https://github.com/rakuishi/hugo-zen.git
+[submodule "public"]
+	path = public
+	url = git@github.com:slumber1122/slumber1122.github.io.git
