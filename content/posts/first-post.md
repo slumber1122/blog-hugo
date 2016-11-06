@@ -63,8 +63,8 @@ hello
 在命令行执行，`hugo server -w`， 可以在浏览器中访问` http://127.0.0.1:1313/hugo_blog/`进行预览
 
 ### 关联至Github的个人页面
-* 建立 <github-project>-hugo repo (用來 host Hugo 的內容)
-* 建立 <your-github-account>.github.io repo (个人静态网站)
+* 建立github-project-hugo repo (用來 host Hugo 的內容)
+* 建立your-github-account.github.io repo (个人静态网站)
 
 将hugo repo link到刚才创建的hugo站点目录
 ```
