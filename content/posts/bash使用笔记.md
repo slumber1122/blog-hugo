@@ -11,13 +11,17 @@ date = "2016-11-05T11:11:42+08:00"
 
 ## List
 
-- alias 不支持参数输入，可使用func替代
-```
-xx() {
-    echo $1
-}
-alias xx=xx
-```
+- alias 不支持参数输入，可使用func替代   
 
-- 将用户加到sudo组  
-sudo usermod -a -G sudo <username>
+    ```
+    xx() {
+        echo $1
+    }
+    alias xx=xx
+    ```
+
+- 将用户加到sudo组    
+
+    ```
+    sudo usermod -a -G sudo <username>
+    ```
