@@ -18,3 +18,6 @@ xx() {
 }
 alias xx=xx
 ```
+
+- 将用户加到sudo组  
+sudo usermod -a -G sudo <username>
