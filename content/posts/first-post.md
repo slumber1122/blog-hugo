@@ -125,6 +125,9 @@ git push origin master
 └── themes
     └── hugo-zen
 ```
+### P.S.
+在文档中添加gist`{{< gist spf13 7896402 >}}`
+
 
 ### 参考资料
 [在 Github Pages 建立 Hugo 靜態網站](http://kaichu.io/2015/07/12/my-first-post/)
