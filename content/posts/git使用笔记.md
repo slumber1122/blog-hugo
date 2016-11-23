@@ -34,4 +34,11 @@ title = "git使用笔记"
         HostName github.com
         User git
         IdentityFile ~/.ssh/id_rsa_work
+    # 配置之后
+    git config --global --unset user.name
+    git config --global --unset user.email # 将之前的global配置删除
+    # 在每个项目中设置name和email
+    git config user.name <name>
+    git config user.email <email>
+
     ```
