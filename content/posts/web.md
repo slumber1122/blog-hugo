@@ -13,3 +13,5 @@ npm install -g yo
 npm install -g generator-react-webpack
 
 npm ls -g --depth=1 2>/dev/null | grep generator-
+
+yo react-webpack gallery
